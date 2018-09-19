@@ -1,4 +1,17 @@
 Two Categories of Descriptors:
-	1. Measures of Central Tendency: some 'central' aspect of the data
-
-	2. Measures of Dispersion: How 'spread-out' or 'dispersed' the data is
+	1. Measures of Central Tendency: some 'central' aspect of the data.
+		- Mean: Average
+		- Median: The median of a set of ordered observations is a middle number that divides the data into two parts.
+		- Mode（众数） : The Mode is the most frequently occurring value in a set of data.（一旦continuous不怎么有说服力）
+		**** The Mean is influenced to a greater extent by extreme observation.
+	2. Measures of Dispersion(离散): How 'spread-out' or 'dispersed' the data is.
+		1. The Range Measure: MAX - MIN
+		2. The Inter Quartile Range Measure: 
+			0th quatile: Minimum
+			1st quatile: 25%
+			2nd quatile: Median
+			3rd quatile: 75%
+			4th quatile: Maximum
+			IQR = 3rd quartile - 1st quartile
+	3. The Standard Deviation
+Introduction to the Box Plot and Statndard Deviation:
